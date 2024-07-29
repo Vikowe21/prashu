@@ -9,4 +9,4 @@ kuchh aur
 azurerm_resource_groupg
 azurerm_resource_groupg
 azurerm_resource_groupg
-azurerm_resource_grou
+azurerm_resource_gr
