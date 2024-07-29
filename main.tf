@@ -6,3 +6,7 @@ resource "azurerm_resource_group" "prashu" {
 
 
 kuchh aur
+azurerm_resource_groupg
+azurerm_resource_groupg
+azurerm_resource_groupg
+azurerm_resource_group
